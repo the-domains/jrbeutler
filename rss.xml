@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Leadership Thoughts I find interesting]]></title>
+        <description><![CDATA[Leadership Thoughts I find interesting]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Tue, 26 Apr 2016 19:43:33 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Explaining the Rise of Donald Trump]]></title>
+            <description><![CDATA[<article><h1>Explaining the Rise of Donald Trump</h1><p>Whenever I read or hear a news story about the perplexing rise of Donald Trump, I myself am confused. Confused, not by Trump's rise, but how predictable his rise was given the politics of the past decade. The Republican Party did such an expert marketing job for the past 8 years that it actually worked.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c14331a1605b0dfcc7a51cd109a46360c40f0a0d.jpg"></article>]]></description>
+            <link>http://blog.startwithwhy.com/refocus/2016/03/explaining-the-rise-of-donald-trump.html</link>
+            <guid isPermaLink="false">f78c2336-4dcb-444d-b313-c5327f571d5a</guid>
+            <pubDate>Tue, 26 Apr 2016 19:43:13 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
